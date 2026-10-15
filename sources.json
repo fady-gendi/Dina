@@ -1,0 +1,384 @@
+{
+  "profile": "https://www.behance.net/DinaFahmi",
+  "projects": [
+    {
+      "key": "melee",
+      "title": "Melee Jewelry",
+      "id": "77368917/Melee-Jewelry",
+      "categories": [
+        "branding",
+        "fashion"
+      ],
+      "label": "Jewelry · Brand world"
+    },
+    {
+      "key": "xuru",
+      "title": "Xuru Stays",
+      "id": "91674159/Xuru-Stays",
+      "categories": [
+        "branding"
+      ],
+      "label": "Hospitality · Identity"
+    },
+    {
+      "key": "bites",
+      "title": "Bites by Amal Sultan",
+      "id": "130115741/Bites-by-Amal-Sultan",
+      "categories": [
+        "branding"
+      ],
+      "label": "Food · Brand identity",
+      "gallery": 7
+    },
+    {
+      "key": "dea",
+      "title": "DEA / Fashion Label",
+      "id": "130116209/DEA-Fashion-Label",
+      "categories": [
+        "fashion",
+        "branding"
+      ],
+      "label": "Fashion · Identity"
+    },
+    {
+      "key": "one-line",
+      "title": "One Line Illustrations",
+      "id": "130126039/One-Line-Illustrations",
+      "categories": [
+        "art"
+      ],
+      "label": "Art · Illustration"
+    },
+    {
+      "key": "laien",
+      "title": "LAIÉN",
+      "id": "91674005/LAIEN",
+      "categories": [
+        "branding"
+      ],
+      "label": "Branding"
+    },
+    {
+      "key": "christine",
+      "title": "Christine Massarany",
+      "id": "73114451/Christine-Massarany",
+      "categories": [
+        "fashion",
+        "branding"
+      ],
+      "label": "Fashion · Identity",
+      "gallery": 6
+    },
+    {
+      "key": "dear-nin",
+      "title": "Dear Nin",
+      "id": "73114061/Dear-Nin",
+      "categories": [
+        "branding"
+      ],
+      "label": "Branding"
+    },
+    {
+      "key": "fashion-sketches",
+      "title": "Fashion Sketches",
+      "id": "130124429/Fashion-Sketches",
+      "categories": [
+        "fashion",
+        "art"
+      ],
+      "label": "Fashion · Illustration"
+    },
+    {
+      "key": "due",
+      "title": "due concepts",
+      "id": "91673859/due-concepts",
+      "categories": [
+        "branding"
+      ],
+      "label": "Branding"
+    },
+    {
+      "key": "abstract",
+      "title": "Abstract Sketches",
+      "id": "130124581/Abstract-Sketches",
+      "categories": [
+        "art"
+      ],
+      "label": "Art · Drawing"
+    },
+    {
+      "key": "reine",
+      "title": "REINE Lookbook",
+      "id": "73116403/REINE-LOOKBOOK",
+      "categories": [
+        "fashion"
+      ],
+      "label": "Fashion · Editorial"
+    },
+    {
+      "key": "shahira",
+      "title": "Shahira Lasheen",
+      "id": "73117049/Shahira-Lasheen-Branding-Project",
+      "categories": [
+        "fashion",
+        "branding"
+      ],
+      "label": "Fashion · Branding proposal"
+    },
+    {
+      "key": "realistic",
+      "title": "Realistic Art",
+      "id": "130124659/Realistic-Art",
+      "categories": [
+        "art"
+      ],
+      "label": "Art · Drawing"
+    },
+    {
+      "key": "yasmin",
+      "title": "Yasmin Mansour",
+      "id": "73117713/YASMIN-MANSOUR",
+      "categories": [
+        "fashion"
+      ],
+      "label": "Fashion"
+    },
+    {
+      "key": "trimoon",
+      "title": "Trimoon",
+      "id": "91674801/Trimoon",
+      "categories": [
+        "branding"
+      ],
+      "label": "Branding"
+    },
+    {
+      "key": "faces",
+      "title": "Faces Art Exhibition",
+      "id": "37239943/Faces-Art-Exhibition",
+      "categories": [
+        "art"
+      ],
+      "label": "Art · Exhibition"
+    }
+  ],
+  "assets": {
+    "xuru": {
+      "url": "https://mir-s3-cdn-cf.behance.net/projects/404/0b70f691674159.Y3JvcCwyODc2LDIyNTAsNTYyLDA.jpg",
+      "dimensions": [
+        404,
+        316
+      ]
+    },
+    "dea": {
+      "url": "https://mir-s3-cdn-cf.behance.net/projects/404/4c035d130116209.Y3JvcCwxNDMxLDExMjAsMzAxLDA.png",
+      "dimensions": [
+        404,
+        316
+      ]
+    },
+    "melee": {
+      "url": "https://mir-s3-cdn-cf.behance.net/projects/404/3fc98977368917.Y3JvcCw1NzUzLDQ1MDAsMTEyNSww.jpg",
+      "dimensions": [
+        404,
+        316
+      ]
+    },
+    "dear-nin": {
+      "url": "https://mir-s3-cdn-cf.behance.net/projects/404/e53a9473114061.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg",
+      "dimensions": [
+        404,
+        316
+      ]
+    },
+    "laien": {
+      "url": "https://mir-s3-cdn-cf.behance.net/projects/404/446c5a91674005.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg",
+      "dimensions": [
+        404,
+        316
+      ]
+    },
+    "due": {
+      "url": "https://mir-s3-cdn-cf.behance.net/projects/404/efcff691673859.Y3JvcCwyODc2LDIyNTAsNTYyLDA.jpg",
+      "dimensions": [
+        404,
+        316
+      ]
+    },
+    "bites": {
+      "url": "https://mir-s3-cdn-cf.behance.net/projects/404/44fb02130115741.Y3JvcCw2MzkyLDQ5OTksNDcsMA.jpg",
+      "dimensions": [
+        404,
+        316
+      ]
+    },
+    "trimoon": {
+      "url": "https://mir-s3-cdn-cf.behance.net/projects/404/faae0391674801.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg",
+      "dimensions": [
+        404,
+        316
+      ]
+    },
+    "reine": {
+      "url": "https://mir-s3-cdn-cf.behance.net/projects/404/f73e7273116403.Y3JvcCwyNzYxLDIxNjAsNTQwLDA.jpg",
+      "dimensions": [
+        404,
+        316
+      ]
+    },
+    "shahira": {
+      "url": "https://mir-s3-cdn-cf.behance.net/projects/404/607ddf73117049.Y3JvcCwyNzYxLDIxNjAsNTQwLDA.jpg",
+      "dimensions": [
+        404,
+        316
+      ]
+    },
+    "yasmin": {
+      "url": "https://mir-s3-cdn-cf.behance.net/projects/404/5a6e4973117713.Y3JvcCwyNzYxLDIxNjAsNTQwLDA.jpg",
+      "dimensions": [
+        404,
+        316
+      ]
+    },
+    "christine": {
+      "url": "https://mir-s3-cdn-cf.behance.net/projects/404/c5f0b973114451.Y3JvcCwyNzYxLDIxNjAsNTQwLDA.jpg",
+      "dimensions": [
+        404,
+        316
+      ]
+    },
+    "one-line": {
+      "url": "https://mir-s3-cdn-cf.behance.net/projects/404/b3acf7130126039.Y3JvcCwxMjQwLDk2OSwwLDI3OQ.png",
+      "dimensions": [
+        404,
+        316
+      ]
+    },
+    "fashion-sketches": {
+      "url": "https://mir-s3-cdn-cf.behance.net/projects/404/168bf8130124429.Y3JvcCwyMDA2LDE1NjksMCww.jpg",
+      "dimensions": [
+        404,
+        316
+      ]
+    },
+    "abstract": {
+      "url": "https://mir-s3-cdn-cf.behance.net/projects/404/8ff4d1130124581.Y3JvcCwxMjU0LDk4MCwwLDEzNg.png",
+      "dimensions": [
+        404,
+        316
+      ]
+    },
+    "realistic": {
+      "url": "https://mir-s3-cdn-cf.behance.net/projects/404/852d9e130124659.Y3JvcCw4NDIsNjU5LDIxMCwyNjQ.png",
+      "dimensions": [
+        404,
+        316
+      ]
+    },
+    "faces": {
+      "url": "https://mir-s3-cdn-cf.behance.net/projects/404/ffe93737239943.Y3JvcCw1NzcsNDUyLDUsNTI.jpg",
+      "dimensions": [
+        404,
+        316
+      ]
+    },
+    "bites-1": {
+      "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a02a88130115741.617943535cced.png",
+      "dimensions": [
+        1200,
+        662
+      ]
+    },
+    "bites-2": {
+      "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e9f126130115741.617943535dc23.png",
+      "dimensions": [
+        1200,
+        664
+      ]
+    },
+    "bites-3": {
+      "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/44d4db130115741.6179435362320.png",
+      "dimensions": [
+        1200,
+        663
+      ]
+    },
+    "bites-4": {
+      "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/808d28130115741.6179435364bd1.png",
+      "dimensions": [
+        1200,
+        661
+      ]
+    },
+    "bites-5": {
+      "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/8922f2130115741.617943535f34c.png",
+      "dimensions": [
+        1200,
+        660
+      ]
+    },
+    "bites-6": {
+      "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/d24548130115741.617943535d51f.png",
+      "dimensions": [
+        1200,
+        666
+      ]
+    },
+    "bites-7": {
+      "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/ec934f130115741.61794353639db.png",
+      "dimensions": [
+        1200,
+        665
+      ]
+    },
+    "christine-1": {
+      "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/97ed5273114451.5bfec191d7857.jpg",
+      "dimensions": [
+        1200,
+        675
+      ]
+    },
+    "christine-2": {
+      "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/24a66173114451.5bfec191d8268.jpg",
+      "dimensions": [
+        1200,
+        675
+      ]
+    },
+    "christine-3": {
+      "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/1a1ede73114451.5bfec191dcef7.jpg",
+      "dimensions": [
+        1200,
+        675
+      ]
+    },
+    "christine-4": {
+      "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/efefc873114451.5bfec191da0fe.jpg",
+      "dimensions": [
+        1200,
+        675
+      ]
+    },
+    "christine-5": {
+      "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/1eaec973114451.5bfec191d8f2d.jpg",
+      "dimensions": [
+        1200,
+        675
+      ]
+    },
+    "christine-6": {
+      "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/5f7f9a73114451.5bfec191dd785.jpg",
+      "dimensions": [
+        1200,
+        675
+      ]
+    },
+    "portrait": {
+      "url": "https://pps.services.adobe.com/api/profile/437C35864CFA543A0A746C2A%40AdobeID/image/1fc26fe0-e719-4da7-afc3-9e86c0369859/276",
+      "dimensions": [
+        276,
+        276
+      ]
+    }
+  }
+}
