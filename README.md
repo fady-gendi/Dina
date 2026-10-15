@@ -1,6 +1,6 @@
 # Dina Fahmi — Creative Portfolio
 
-A responsive portfolio for Dina Fahmi: creative direction, branding, fashion, art and illustration, with links to her music and video channels.
+A black and white editorial portfolio for Dina Fahmi: creative direction, branding, fashion, art and illustration, with links to her music and video channels.
 
 ## Open
 
@@ -19,6 +19,7 @@ Committing the files alone does not enable GitHub Pages.
 
 ## Features
 
+- Monochrome artwork, refined serif typography, generous spacing and an editorial two-column gallery.
 - Responsive layouts for phones, tablets and desktops.
 - Seventeen selected projects, filterable by Branding, Fashion, and Art & illustration.
 - Accessible project dialogs, with selected gallery images for Bites and Christine Massarany.
