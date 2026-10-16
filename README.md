@@ -1,6 +1,6 @@
 # Dina Fahmi — Creative Portfolio
 
-A black and white editorial portfolio for Dina Fahmi: creative direction, branding, fashion, art and illustration, with links to her music and video channels.
+A creative portfolio for Dina Fahmi, styled to match fady-gendi/AI-Worx: creative direction, branding, fashion, art and illustration, with links to her music and video channels.
 
 ## Open
 
@@ -19,7 +19,8 @@ Committing the files alone does not enable GitHub Pages.
 
 ## Features
 
-- Monochrome artwork, refined serif typography, generous spacing and an editorial two-column gallery.
+- AI-Worx typography and layout: embedded Poppins 300–800, white backgrounds, thin black borders, compact spacing and rectangular buttons.
+- Original artwork colors, project galleries and no CV or professional experience block.
 - Responsive layouts for phones, tablets and desktops.
 - Seventeen selected projects, filterable by Branding, Fashion, and Art & illustration.
 - Accessible project dialogs, with selected gallery images for Bites and Christine Massarany.
@@ -27,6 +28,10 @@ Committing the files alone does not enable GitHub Pages.
 - About section, selected professional experience, SoundCloud and Vimeo links.
 - Keyboard navigation, native dialog focus management and reduced-motion support.
 - No tracking, analytics, contact form or third-party scripts.
+
+## Fonts
+
+Poppins is embedded for reliable standalone rendering. Its SIL Open Font License is included in FONT-LICENSE.txt.
 
 ## Content and images
 
